@@ -1,0 +1,19 @@
+.header {
+  background-color: #87CEFA;
+  color: 	#FF0000;
+  height: 90px;
+}
+  .header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+  }
+
+  .header-list li {
+    float: left;
+    padding: 33px 20px;
+  }
+  .naiyou{
+    text-align: center;
+    font-size: 30px
+  }
